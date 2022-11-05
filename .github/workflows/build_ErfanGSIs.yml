@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: http://allall02.baidupcs.com/file/9fe12a96ftee1b30dfc687c03daba0f2?bkt=en-e031c0692dcd5a21fdfdf2272fb86008424bfe8040281b4c91acaac4d06dd9ed47aa35ea81ed5419&fid=3324918362-250528-904855505927708&time=1667664484&sign=FDTAXUbGERQlBHSKfWaqi-DCb740ccc5511e5e8fedcff06b081203-gEsnKfg5BFVbSWSJqpYiqNOqvpE%3D&to=19&size=4792788451&sta_dx=4792788451&sta_cs=3336&sta_ft=zip&sta_ct=6&sta_mt=0&fm2=MH%2CYangquan%2CAnywhere%2C%2C%E5%B9%BF%E4%B8%9C%2Cct&ctime=1643004834&mtime=1667664484&resv0=-1&resv1=0&resv2=rlim&resv3=5&resv4=4792788451&vuk=3324918362&iv=2&htype=&randtype=&tkbind_id=0&esl=1&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=en-e7b0b9dbde03dfb7895933b79c66a745ae3a885f9aae07c7b43b6b88c8c1fb7062188ed8360aaee1&expires=8h&rt=pr&r=640580248&vbdid=-&fin=oplus_ota_downgrade.zip&bflag=nd6,h1,227,19-19&err_ver=1.0&check_blue=1&rtype=1&devuid=BDIMXV2-O_8DC7CDA64E294BB1B4892A6283CA760A-C_0-D_0-M_525400A3696C-V_0E564ACA&clienttype=8&channel=00000000000000000000000000000000&dp-logid=249183449035358391&dp-callid=0.1&tsl=0&csl=0&fsl=-1&csign=3yzHzxA3IhDVo9jXb5zAqQB1iEk%3D&so=1&ut=1&uter=1&serv=0&uc=1833802818&ti=c77e04c9862927e533637e615a600f18abbbaf54d0f71ed58456271b7afeae52&hflag=30&from_type=3&adg=c_71ec2c6bb4d68c7511ec827a902848f8&reqlabel=250528_l_8d62b17c29cffe3bedb27611aaf967ea_-1_8ad180c6484c079d4207d878032e9bd0&ibp=1&by=themis
-  ROM_NAME: los
+  ROM_NAME: Generic
   BUILD_TYPE: a
   TZ: Asia/Shanghai
 
